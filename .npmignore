@@ -1,0 +1,10 @@
+#排除文件目录
+node_modules/
+benchmark/
+src/
+bin/
+test/
+visual/
+mochawesome-report/
+gulpfile.js
+tsconfig.json
